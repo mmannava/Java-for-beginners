@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * Created by Manasa on 3/4/2016.
- * This an array of best friends
+ * This an array of family members.
  */
 public class Chapter10 {
     public static void main(String args[]){
