@@ -1,3 +1,3 @@
 # Java-for-beginners
-this is code that helps beginners get a hold of java chapter wise.
+this is code that helps beginners to get a hold of java, chapter wise.
 All you need to do is clone the repo and execute each of the programs on your favorite ide :smile:
