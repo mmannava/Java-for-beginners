@@ -2,7 +2,7 @@
  * Created by Manasa on 3/4/2016.
  * There are 8 predefined data types available for java. They are int, short, long, double, float, char, boolean & byte.
  */
-public class DataTypes {
+public class Chapter2 {
     public static void main(String args[]){
         int intType = 12;
         short shortType = 112;
