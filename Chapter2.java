@@ -21,6 +21,5 @@ public class Chapter2 {
         System.out.println(charType );
         System.out.println(booleanType);
         System.out.println(byteType);
-
     }
 }
